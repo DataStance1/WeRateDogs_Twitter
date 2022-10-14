@@ -84,3 +84,8 @@ After cleaning, this tidiness issue was resolved by merging the two tables on tw
 
 #### Issue #12: A tweet rating two dogs
 The tweets rating two dogs were identified and the names of the dogs separeted with 'and' in the name column
+
+## Report: act_report
+Dogs are amazing! From puppo, doggo, floofer, pupper, the dog stages, to the various dog breeds. After gathering, cleaning and analysing the three dataset produced, the following insights were gotten.
+
+The dog stage with the highest average dog rating.
