@@ -1,5 +1,10 @@
 # WeRateDogs_Twitter
-Analyzing data from WeRateDogs twitter data using python to find interesting insights
+* Analyzing data from WeRateDogs twitter data using python to find interesting insights.
+* Downloading and loading data into pandas dataframe
+* Downloadng data pragramatically using the python request library
+* Querying twitter APi
+* Data wrangling
+* Exploratory Data Analysis
 
 ## Reporting: wrangle_report
 ### Data Gathering
